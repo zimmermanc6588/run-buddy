@@ -1,2 +1,14 @@
 # run-buddy
-mod 1 done
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+_*HTML
+*CSS
+
+## Website
+
+
+## Contribution
+Made with ❤️ by [your name]
